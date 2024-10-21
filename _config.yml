@@ -6,7 +6,3 @@ markdown: kramdown
 # Custom CSS
 sass:
   style: compressed
-
-# If you have a stylesheet, make sure it's linked
-# For example, if you created /assets/style.css:
-custom_css: /assets/style.css
