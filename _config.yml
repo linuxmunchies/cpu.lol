@@ -2,3 +2,11 @@ title: "CPU Time"
 description: "Showcasing my work and (lack) of skills"
 # theme: jekyll-theme-cayman # You can choose other themes as well
 markdown: kramdown
+
+# Custom CSS
+sass:
+  style: compressed
+
+# If you have a stylesheet, make sure it's linked
+# For example, if you created /assets/style.css:
+custom_css: /assets/style.css
